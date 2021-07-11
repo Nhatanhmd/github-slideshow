@@ -1,8 +1,5 @@
 ---
 layout: slide
-title:<br>; <h1> "Welcome to our second slide!"</h1>;
-writeline:"welcome";
-<br>;
-readline"";
+title:<br>;  "Welcome to our second slide!"
 Hello from NAmd!
 Use the left arrow to go back!
